@@ -1,4 +1,4 @@
-# Raylib-linux-template-1
+# Raylib-windows-template-1
 
 This repository serves as a simple template for the raylib graphics library.
 The primary goal of this template is to be self contained, meaning that the
@@ -7,7 +7,7 @@ number of dependencies for compilation has been minizmized.
 The example program is written in c++ & includes a single main file and a simple makefile that
 compiles & links statically to the raylib library.
 To use a template that utilizes multiple source & header files, please navigate to the 
-[2nd Raylib-linux-template](https://github.com/DevHawksUTM/Raylib-linux-template-2)
+[2nd Raylib-windows-template](https://github.com/DevHawksUTM/Raylib-windows-template-2)
 
 ## Raylib Library
 
@@ -22,7 +22,7 @@ Source Repository: https://github.com/raysan5/raylib
 
 Raylib requires the opengl library to link properly
 
-To install on linux: `sudo apt-get install mesa-utils`
+Windows includes the opengl library by default
 
 ## Compiling
 
